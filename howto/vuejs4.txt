@@ -1,0 +1,57 @@
+sudo apt install nodejs
+sudo apt install npm
+sudo npm install -g @vue/cli
+
+vue --version
+@vue/cli 4.5.15
+
+******
+
+vue create test
+cd test
+npm run serve
+#npm stop
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.0.192:8080/
+
+vue ui
+
+---
+
+install vscode plugs - vetur + live server
+
+---
+
+npm i uuid
+npm audit fix
+npm audit fix --force
+npm audit
+npm i --save-dev @types/uuid
+npm i axios
+
+npm install vue-router
+#npm install vue-store
+npm install store-js
+npm run build
+
+
+https://www.npmjs.com/package/vue-store
+https://router.vuejs.org/installation.html#direct-download-cdn
+https://next.router.vuejs.org/installation.html
+https://docs.npmjs.com/cli/v7/commands/npm-start
+
+
+https://jsonplaceholder.typicode.com/guide/
+https://jsonplaceholder.typicode.com/users/1/todos
+https://jsonplaceholder.typicode.com/posts
+https://jsonplaceholder.typicode.com/todos
+https://github.com/typicode/json-server
+
+
+https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/
+https://v3.vuejs.org/guide/migration/introduction.html#devtools-extension
+https://github.com/vuejs/devtools/releases/tag/v6.0.0-beta.20
+https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=en

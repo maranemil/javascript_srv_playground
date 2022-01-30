@@ -1,0 +1,9 @@
+/usr/bin/node /usr/share/nodejs/npm/bin/npm-cli.js install --scripts-prepend-node-path=auto
+
+
+npm fund
+npm audit fix
+npm audit fix --force
+npm audit
+
+npm audit

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "debug": "^2.6.9",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  },
+  "name": "node_js_server",
+  "description": "rm -rf node_modules/ npm install",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

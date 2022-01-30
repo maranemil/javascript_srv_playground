@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=WPzsHwGkByc
+https://www.youtube.com/watch?v=HSsqzzuGTPo
+
+
+https://github.com/bradtraversy/vue-crash-2021
+https://github.com/bradtraversy/vue_crash_todolist
+https://vuejs.org/
+https://cli.vuejs.org/guide/installation.html
+
+https://docs.mongodb.com/mongodb-shell/
+https://www.mongodb.com/try/download/community
+
+..
+
+https://www.youtube.com/watch?v=qZXt1Aom3Cs
