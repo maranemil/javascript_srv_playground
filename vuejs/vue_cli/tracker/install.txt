@@ -1,0 +1,35 @@
+npm install
+npm fund
+npm audit fix
+npm audit fix --force
+sudo npm install vue-cli -g
+sudo npm audit fix --force
+
+sudo npm run serve
+npm install vue
+npm install eslint
+
+
+
+
+Syntax Error: Error: Failed to load config "plugin:vue/vue3-essential" to extend from.
+https://eslint.vuejs.org/user-guide/
+
+npm install --save-dev eslint eslint-plugin-vue
+npm install --save-dev eslint eslint-plugin-vue
+npm install --save-dev eslint eslint-plugin-vue
+
+https://cli.vuejs.org/guide/installation.html
+https://vuejs.org/v2/guide/
+https://cli.vuejs.org/guide/creating-a-project.html#vue-create
+
+vue --version
+2.9.6
+npm update -g @vue/cli
+
+vue serve
+vue add eslint
+npm run serve
+
+
+
